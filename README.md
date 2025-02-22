@@ -37,6 +37,8 @@
 * [HTTP message](TIL_sortbyContents/HTTP_Message.md)
 * [Cookie, Session, JWT](TIL_sortbyContents/Cookie_Session_JWT.md)
 * [WebSocket](TIL_sortbyContents/Websocket.md)
+* [Authorization Header](TIL_sortbyContents/HTTP_Authorization_Header.md)
+* [OSI 7 layers](TIL_sortbyContents/OSI_7layers.md)
 
 ### BE
 * [Dependency Injection](TIL_sortbyContents/Dependency_Injection.md)
